@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sumitaswal3683@gmail.com**
 
-- ⚡ Fun fact **There is nothing fun about me.**
+- ⚡ Fun fact **I automate things just for fun , once wrote a script to remind me to take breaks… then forgot I automated it and got startled by my own productivity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
