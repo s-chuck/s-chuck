@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-chuck&label=Profile%20views&color=0e75b6&style=flat" alt="s-chuck" /> </p>
 
-- 🔭 I’m currently working on [nodejs-devops-sample](https://github.com/s-chuck/nodejs-devops-sample)
 
 - 🌱 I’m currently learning **Containerization with Docker ,End-to-end DevOps workflow using Docker, Helm, deployment automation using GitHub Actions, and Kubernetes orchestration**
 
