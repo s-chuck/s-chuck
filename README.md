@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sumit Aswal</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-chuck&label=Profile%20views&color=0e75b6&style=flat" alt="s-chuck" /> </p>
 
 
 - 🌱 I’m currently learning **Containerization with Docker ,End-to-end DevOps workflow using Docker, Helm, deployment automation using GitHub Actions, and Kubernetes orchestration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/s-chuck/](https://github.com/s-chuck/)
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **sumitaswal3683@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I automate things just for fun , once wrote a script to remind me to take breaks… then forgot I automated it and got startled by my own productivity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sumit-aswal-696057228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit aswal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/s_chuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s_chuck" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
